@@ -121,4 +121,5 @@ int main() {
 
 
 
-<img width="391" height="538" alt="image" src="https://github.com/user-attachments/assets/1869e498-793a-4fae-95be-00debd71de94" />
+<img width="368" height="183" alt="image" src="https://github.com/user-attachments/assets/1ae850f0-12f0-4056-8253-1940afb36384" />
+
