@@ -118,3 +118,7 @@ int main() {
 }
 
 3. Результаты работы программы
+
+
+
+<img width="391" height="538" alt="image" src="https://github.com/user-attachments/assets/1869e498-793a-4fae-95be-00debd71de94" />
